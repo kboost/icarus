@@ -1,0 +1,54 @@
+2025-12-28 01:30:50,043 - INFO - ✅ Archivo organizado: backup.zip -> Comprimidos/backup.zip
+2025-12-28 01:30:50,343 - INFO - ✅ Archivo organizado: documento_importante.pdf -> Documentos/documento_importante.pdf
+2025-12-28 01:30:50,644 - INFO - ✅ Archivo organizado: script_python.py -> Código/script_python.py
+2025-12-28 01:30:50,944 - INFO - ✅ Archivo organizado: vacaciones.jpg -> Imágenes/vacaciones.jpg
+2025-12-28 01:30:51,245 - INFO - ✅ Archivo organizado: pelicula.mkv -> Video/pelicula.mkv
+2025-12-28 01:30:51,545 - INFO - ✅ Archivo organizado: pagina_web.html -> Código/pagina_web.html
+2025-12-28 01:30:51,845 - INFO - ✅ Archivo organizado: instalador.exe -> Ejecutables/instalador.exe
+2025-12-28 01:30:52,146 - INFO - ✅ Archivo organizado: imagen.png -> Imágenes/imagen.png
+2025-12-28 01:30:52,446 - INFO - ✅ Archivo organizado: audio.wav -> Audio/audio.wav
+2025-12-28 01:30:52,747 - INFO - ✅ Archivo organizado: cancion_favorita.mp3 -> Audio/cancion_favorita.mp3
+2025-12-28 01:30:56,049 - INFO - ✅ Archivo organizado: nueva_foto.gif -> Imágenes/nueva_foto.gif
+2025-12-28 01:30:58,050 - INFO - ✅ Archivo organizado: nuevo_documento.docx -> Documentos/nuevo_documento.docx
+2025-12-28 01:31:00,051 - INFO - ✅ Archivo organizado: nuevo_audio.flac -> Audio/nuevo_audio.flac
+2025-12-28 01:35:52,385 - INFO - ✅ Archivo organizado: backup.zip -> Comprimidos/backup_1.zip
+2025-12-28 01:35:52,685 - INFO - ✅ Archivo organizado: documento_importante.pdf -> Documentos/documento_importante_1.pdf
+2025-12-28 01:35:52,985 - INFO - ✅ Archivo organizado: script_python.py -> Código/script_python_1.py
+2025-12-28 01:35:53,286 - WARNING - ⚠️ Archivo sensible ignorado: system_config.tmp
+2025-12-28 01:35:53,586 - WARNING - ⚠️ Archivo sensible ignorado: login_credentials.docx
+2025-12-28 01:35:53,886 - INFO - ✅ Archivo organizado: vacaciones.jpg -> Imágenes/vacaciones_1.jpg
+2025-12-28 01:35:54,186 - WARNING - ⚠️ Archivo sensible ignorado: passwords.txt
+2025-12-28 01:35:54,487 - WARNING - ⚠️ Archivo sensible ignorado: Contraseñas de Brave.csv
+2025-12-28 01:35:54,787 - INFO - ✅ Archivo organizado: pelicula.mkv -> Video/pelicula_1.mkv
+2025-12-28 01:35:55,087 - INFO - ✅ Archivo organizado: pagina_web.html -> Código/pagina_web_1.html
+2025-12-28 01:35:55,388 - WARNING - ⚠️ Archivo sensible ignorado: ssh_host_key
+2025-12-28 01:35:55,688 - INFO - ✅ Archivo organizado: instalador.exe -> Ejecutables/instalador_1.exe
+2025-12-28 01:35:55,988 - INFO - ✅ Archivo organizado: imagen.png -> Imágenes/imagen_1.png
+2025-12-28 01:35:56,289 - INFO - ✅ Archivo organizado: audio.wav -> Audio/audio_1.wav
+2025-12-28 01:35:56,589 - INFO - ✅ Archivo organizado: cancion_favorita.mp3 -> Audio/cancion_favorita_1.mp3
+2025-12-28 01:35:56,889 - WARNING - ⚠️ Archivo sensible ignorado: backup_key.p12
+2025-12-28 01:35:57,189 - WARNING - ⚠️ Archivo sensible ignorado: private_key.pem
+2025-12-28 01:36:00,490 - INFO - ✅ Archivo organizado: nueva_foto.gif -> Imágenes/nueva_foto_1.gif
+2025-12-28 01:36:02,491 - INFO - ✅ Archivo organizado: nuevo_documento.docx -> Documentos/nuevo_documento_1.docx
+2025-12-28 01:36:04,491 - INFO - ✅ Archivo organizado: nuevo_audio.flac -> Audio/nuevo_audio_1.flac
+2025-12-28 01:36:06,492 - WARNING - ⚠️ Archivo sensible ignorado: secret_passwords.csv
+2025-12-28 01:36:08,493 - WARNING - ⚠️ Archivo sensible ignorado: auth_tokens.txt
+2025-12-28 01:39:36,478 - INFO - ✅ Archivo organizado: backup.zip -> Comprimidos/backup_2.zip
+2025-12-28 01:39:36,778 - INFO - ✅ Archivo organizado: documento_importante.pdf -> Documentos/documento_importante_2.pdf
+2025-12-28 01:39:37,078 - WARNING - ⚠️ Archivo sensible ignorado: auth_tokens.txt
+2025-12-28 01:39:37,379 - INFO - ✅ Archivo organizado: script_python.py -> Código/script_python_2.py
+2025-12-28 01:39:37,679 - WARNING - ⚠️ Archivo sensible ignorado: secret_passwords.csv
+2025-12-28 01:39:37,979 - WARNING - ⚠️ Archivo sensible ignorado: system_config.tmp
+2025-12-28 01:39:38,279 - WARNING - ⚠️ Archivo sensible ignorado: login_credentials.docx
+2025-12-28 01:39:38,580 - INFO - ✅ Archivo organizado: vacaciones.jpg -> Imágenes/vacaciones_2.jpg
+2025-12-28 01:39:38,880 - WARNING - ⚠️ Archivo sensible ignorado: passwords.txt
+2025-12-28 01:39:39,180 - WARNING - ⚠️ Archivo sensible ignorado: Contraseñas de Brave.csv
+2025-12-28 01:39:39,481 - INFO - ✅ Archivo organizado: pelicula.mkv -> Video/pelicula_2.mkv
+2025-12-28 01:39:39,781 - INFO - ✅ Archivo organizado: pagina_web.html -> Código/pagina_web_2.html
+2025-12-28 01:39:40,081 - WARNING - ⚠️ Archivo sensible ignorado: ssh_host_key
+2025-12-28 01:39:40,382 - INFO - ✅ Archivo organizado: instalador.exe -> Ejecutables/instalador_2.exe
+2025-12-28 01:39:40,682 - INFO - ✅ Archivo organizado: imagen.png -> Imágenes/imagen_2.png
+2025-12-28 01:39:40,982 - INFO - ✅ Archivo organizado: audio.wav -> Audio/audio_2.wav
+2025-12-28 01:39:41,283 - INFO - ✅ Archivo organizado: cancion_favorita.mp3 -> Audio/cancion_favorita_2.mp3
+2025-12-28 01:39:41,583 - WARNING - ⚠️ Archivo sensible ignorado: backup_key.p12
+2025-12-28 01:39:41,883 - WARNING - ⚠️ Archivo sensible ignorado: private_key.pem

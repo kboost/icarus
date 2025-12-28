@@ -1,0 +1,15 @@
+[Unit]
+Description=Download Organizer Service
+After=graphical-session.target
+
+[Service]
+Type=simple
+User=%i
+WorkingDirectory=%h/.local/share/download-organizer
+ExecStart=/usr/bin/python3 %h/.local/share/download-organizer/download_organizer.py
+Restart=always
+RestartSec=10
+Environment=DISPLAY=:0
+
+[Install]
+WantedBy=default.target
