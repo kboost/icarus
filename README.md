@@ -1,4 +1,4 @@
-# Organizador de Descargas Automático
+# ICARUS - Organizador de Descargas Automático
 
 Herramienta para organizar automáticamente los archivos descargados según su tipo, compatible con Arch Linux y Windows.
 
